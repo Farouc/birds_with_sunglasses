@@ -58,7 +58,6 @@ A fourth experimental method was explored; documentation will be added after cod
 ## 📁 Repository Structure
 
 ```
-HACKAHTON_AUTOMATANTS/
 │
 ├── json_outputs/              # Model predictions and final JSON outputs
 │   ├── pred_timestamps_*.json
@@ -84,8 +83,8 @@ HACKAHTON_AUTOMATANTS/
 │   ├── min_end_start.py
 │   ├── to_wav.py
 │   └── ...
-│
-├── gpu_run.sbatch             # SLURM job submission script
+├── explore/              # ipynb files for our first explorations
+├── gpu_run.sbatch             # SLURM job submission script example
 ├── requirements.txt           # Python dependencies
 └── 3rd_method_output_json.py  # Example inference script for method 3
 ```
