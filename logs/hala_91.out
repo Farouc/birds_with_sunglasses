@@ -1,0 +1,17 @@
+===== [INFO] Job started at Sat Oct 18 14:39:55 UTC 2025 on ip-10-8-200-37.cloudgouv-eu-west-1.compute.internal =====
+===== [INFO] Running script: my_model_plus_rf.py =====
+[INFO] Total files: 96397 | Guepier: 10984 | Other: 85413
+
+[INFO] Starting dataset preprocessing...
+
+[INFO] Loading 96397 audio files...
+[INFO] Finished loading audio files.
+
+[INFO] Converting audio to mel-spectrograms...
+[INFO] Preprocessing complete. Dataset shape: (96397, 128, 87, 3), Labels: (96397,)
+
+[INFO] Preparing data for training...
+[INFO] Training set: (77117, 128, 87, 3), Validation set: (19280, 128, 87, 3)
+[INFO] Computed class weights: {np.int64(0): np.float64(0.5642993455328814), np.int64(1): np.float64(4.388064457392571)}
+[INFO] Building CNN + Bi-GRU model. Input shape: (128, 87, 3)
+===== [INFO] Job finished at Sat Oct 18 14:47:43 UTC 2025 =====

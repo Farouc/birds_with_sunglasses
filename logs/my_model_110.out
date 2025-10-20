@@ -1,0 +1,9 @@
+===== [INFO] Job started at Sat Oct 18 16:52:47 UTC 2025 on ip-10-8-200-37.cloudgouv-eu-west-1.compute.internal =====
+===== [INFO] Running script: my_model_plus_rf.py =====
+[INFO] Using device: cuda
+Checkpoint path: /automathon/users/mig_user3/panns_data/Cnn14_mAP=0.431.pth
+GPU number: 1
+[INFO] Chargement du modèle AST pour 10 classes (détectées depuis le RF).
+[INFO] ✅ All models loaded successfully.
+[INFO] Index cible vérifié. Utilisation de l'index 0 (pour 'guepier_sounds') sur les 10 classes du RF.
+===== [INFO] Job finished at Sat Oct 18 17:54:06 UTC 2025 =====

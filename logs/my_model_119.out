@@ -1,0 +1,6 @@
+===== [INFO] Job started at Sat Oct 18 18:39:22 UTC 2025 on ip-10-8-200-37.cloudgouv-eu-west-1.compute.internal =====
+===== [INFO] Running script: my_model_plus_rf.py =====
+Positive (guepier_sounds): 10984
+Negative (other_sounds + other_noise): 90385
+Train size: 91232, Val size: 10137
+Using pos_weight = 8.228 in BCEWithLogitsLoss

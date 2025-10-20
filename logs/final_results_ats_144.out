@@ -1,0 +1,27 @@
+===== [INFO] Job started at Sat Oct 18 23:36:36 UTC 2025 on ip-10-8-200-37.cloudgouv-eu-west-1.compute.internal =====
+===== [INFO] Running script: my_model_plus_rf.py =====
+[INFO] Found 3 classes and 101510 files total.
+[INFO] Class weights: tensor([3.0805, 0.3962, 6.6178], device='cuda:0')
+[INFO] Starting streaming fine-tuning for 20000 batches...
+[Batch 100] mean_focal_loss=0.4352
+[Batch 200] mean_focal_loss=0.2540
+[Batch 300] mean_focal_loss=0.1833
+[Batch 400] mean_focal_loss=0.1799
+[Batch 500] mean_focal_loss=0.1123
+[Batch 600] mean_focal_loss=0.1207
+[Batch 700] mean_focal_loss=0.1299
+[Batch 800] mean_focal_loss=0.1864
+[Batch 900] mean_focal_loss=0.1665
+[Batch 1000] mean_focal_loss=0.0922
+🔍 Validation mini-batch | Recall(guepier)=1.000
+[INFO] 🌟 New best model saved (recall_guepier=1.000)
+[Batch 1100] mean_focal_loss=0.1630
+[Batch 1200] mean_focal_loss=0.1585
+[Batch 1300] mean_focal_loss=0.0983
+[Batch 1400] mean_focal_loss=0.1336
+[Batch 1500] mean_focal_loss=0.1366
+[Batch 1600] mean_focal_loss=0.1180
+[Batch 1700] mean_focal_loss=0.0847
+[Batch 1800] mean_focal_loss=0.1315
+[Batch 1900] mean_focal_loss=0.1001
+[Batch 2000] mean_focal_loss=0.1404

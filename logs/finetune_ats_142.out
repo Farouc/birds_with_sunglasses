@@ -1,0 +1,7 @@
+===== [INFO] Job started at Sat Oct 18 23:11:28 UTC 2025 on ip-10-8-200-37.cloudgouv-eu-west-1.compute.internal =====
+===== [INFO] Running script: my_model_plus_rf.py =====
+[INFO] Using device: cuda
+[INFO] Using BEST checkpoint: ./models_ast/ast_bird_best.pt
+[INFO] ✅ AST model loaded.
+[INFO] ✅ Terminé. Résultats dans pred_timestamps_ast.json
+===== [INFO] Job finished at Sun Oct 19 01:17:50 UTC 2025 =====

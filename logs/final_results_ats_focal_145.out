@@ -1,0 +1,6 @@
+===== [INFO] Job started at Sat Oct 18 23:58:13 UTC 2025 on ip-10-8-200-37.cloudgouv-eu-west-1.compute.internal =====
+===== [INFO] Running script: my_model_plus_rf.py =====
+[INFO] Using device: cuda
+[INFO] Using BEST checkpoint: ./models_ast_focal/ast_bird_best.pt
+[INFO] ✅ AST model ready.
+[INFO] Found 250 files.
