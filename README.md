@@ -53,9 +53,9 @@ Weighted cross-entropy and focal losses were tested for class imbalance handling
 ### **Approach 4 — (To be described later)**
 A fourth experimental method was explored; documentation will be added after code cleanup.
 
----
 ![Handwritten viz of the approaches ](approaches_image.jpg)
 
+---
 
 ## 📁 Repository Structure
 
