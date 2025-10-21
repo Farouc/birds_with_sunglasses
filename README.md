@@ -1,4 +1,4 @@
-# 🐦 Birds With Sunglasses — Automathon Hackathon 2025
+# 🐦 Birds With Sunglasses -- Automathon Hackathon 2025
 
 ## 🧭 Project Context
 
