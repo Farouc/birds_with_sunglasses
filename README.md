@@ -50,11 +50,11 @@ Weighted cross-entropy and focal losses were tested for class imbalance handling
 
 ---
 
-### **Approach 4 — (To be described later)**
-A fourth experimental method was explored; documentation will be added after code cleanup.
+### **Approach 4 - XGBoost Classifier + CNN-RNN**
 
 ![Handwritten viz of the approaches ](approaches_image.jpg)
-
+- Train a model with weighted cross entropy to classify audio chunks to the specific bird species vs other (including other birds and noise).  
+- Feed all the segments into the classifier to identify the Bee-eater.
 ---
 
 ## 📁 Repository Structure
